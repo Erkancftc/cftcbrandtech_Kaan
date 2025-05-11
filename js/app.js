@@ -1,7 +1,7 @@
 /* Template Name: CFTC BrandTech - Creative HTML 5 Template
    Author: Shreethemes
    Email: support@shreethemes.in
-   Website: https://shreethemes.in
+   Website: 
    Version: 1.0.0
    Created: Feb 2022
    File Description: Main JS file of the template
